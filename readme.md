@@ -14,6 +14,18 @@ Some codes for the group. Please add notes and documents to improve this repo fo
 
 ### Installing
 
+For sake of installation time, start by installing [miniconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html) 
+
+Open Anaconda Prompt and create a new environment for tomopy
+```
+conda env update -n my_tomopy_env --file enviroment_pc.yml
+```
+
+Start playing around in [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html)
+```
+jupyter lab
+```
+
 * See the jupyter notebook and other files with comments
 * See tomopy_prep.ipynb to get started
 
@@ -47,9 +59,4 @@ For group use
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+* [tomopy](https://tomopy.readthedocs.io/en/latest/)
