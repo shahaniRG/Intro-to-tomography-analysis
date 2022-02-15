@@ -23,6 +23,7 @@ conda env update -n my_tomopy_env --file enviroment_pc.yml
 
 Start playing around in [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html)
 ```
+conda activate my_tomopy_env
 jupyter lab
 ```
 
