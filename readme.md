@@ -40,7 +40,7 @@ code blocks for commands
 
 ## Authors
 
-Updated Jan 14, 2022: Paul Chao; pchao [at] umich.edu
+Updated Jan 14, 2022: Paul Chao; pchao [at] umich.edu  
 Updated Feb 15, 2022: Paul Chao and Kiran
 
 ## Version History
