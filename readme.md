@@ -18,7 +18,7 @@ For sake of installation time, start by installing [miniconda](https://docs.cond
 
 Open Anaconda Prompt and create a new environment for tomopy
 ```
-conda env update -n my_tomopy_env --file enviroment_pc.yml
+conda env create -f environment_pc.yml
 ```
 
 Start playing around in [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html)
