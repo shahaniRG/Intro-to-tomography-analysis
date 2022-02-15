@@ -16,14 +16,14 @@ Some codes for the group. Please add notes and documents to improve this repo fo
 
 For sake of installation time, start by installing [miniconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html) 
 
-Open Anaconda Prompt and create a new environment for tomopy
+Open Anaconda Prompt and create a new environment named tomopy for the tomopypackage and various dependencies
 ```
 conda env create --file environment_pc.yml
 ```
 
 Start playing around in [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html)
 ```
-conda activate my_tomopy_env
+conda activate tomopy
 jupyter lab
 ```
 
