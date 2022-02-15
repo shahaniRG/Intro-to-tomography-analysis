@@ -16,12 +16,12 @@ Some codes for the group. Please add notes and documents to improve this repo fo
 
 For sake of installation time, start by installing [miniconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html) 
 
-Open Anaconda Prompt and create a new environment named tomopy for the tomopypackage and various dependencies
+Open Anaconda Prompt and create a new environment named tomopy for the [tomopy](https://tomopy.readthedocs.io/en/latest/) package and various dependencies. Use the yml file in this repo to start.
 ```
 conda env create --file environment_pc.yml
 ```
 
-Start playing around in [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html)
+Start playing around in [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html) and open the jupyter notebooks to guide you as you begin reconstructions.
 ```
 conda activate tomopy
 jupyter lab
@@ -38,16 +38,10 @@ jupyter lab
 code blocks for commands
 ```
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
 ## Authors
 
 Updated Jan 14, 2022: Paul Chao; pchao [at] umich.edu
+Updated Feb 15, 2022: Paul Chao and Kiran
 
 ## Version History
 
