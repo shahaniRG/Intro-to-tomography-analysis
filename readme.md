@@ -6,6 +6,12 @@ Made for the Shahani Research Group (http://www.ashwinshahani.com/). University 
 
 Some codes for the group. Please add notes and documents to improve this repo for other students who will do beamline experiments.
 
+**Radiography processing and exporting in notebook**
+![Radiography example](https://user-images.githubusercontent.com/1335424/171718559-0bea267b-3464-4659-9f0a-aa81c839e925.png)
+
+**Tomography reconstruction in notebook**
+![forGithub](https://user-images.githubusercontent.com/1335424/171723376-5ca2baa6-e502-4b72-8d5b-a9738cf4423e.png)
+
 ## Getting Started
 
 ### Dependencies
