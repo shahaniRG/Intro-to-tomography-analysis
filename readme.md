@@ -1,6 +1,7 @@
 # Codes for tomography analysis
 
-Made for the Shahani Research Group (http://www.ashwinshahani.com/). University of Michigan. Materials Science and Engineering. 
+Made for the Shahani Research Group (http://www.ashwinshahani.com/).  
+University of Michigan, Deaprtment of Materials Science and Engineering. 
 
 ## Description
 
