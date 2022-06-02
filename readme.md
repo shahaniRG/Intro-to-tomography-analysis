@@ -29,7 +29,7 @@ conda env create --file environment_pc.yml
 
 Start playing around in [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html) and open the jupyter notebooks to guide you as you begin reconstructions.
 ```
-conda activate tomopy
+conda activate tomopy_analysis
 jupyter lab
 ```
 
@@ -48,6 +48,7 @@ code blocks for commands
 
 Updated Jan 14, 2022: Paul Chao; pchao [at] umich.edu  
 Updated Feb 15, 2022: Paul Chao and Kiran
+Updated June 2, 2022: Paul Chao; pchao [at] umich.edu 
 
 ## Version History
 
