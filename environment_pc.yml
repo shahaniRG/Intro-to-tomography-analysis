@@ -1,4 +1,4 @@
-name: tomopy
+name: tomopy_analysis
 channels:
   - conda-forge
   - defaults
