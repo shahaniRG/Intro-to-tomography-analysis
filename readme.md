@@ -27,7 +27,7 @@ For sake of installation time, start by installing [miniconda](https://docs.cond
 Open Anaconda Prompt and create a new environment named tomopy for the [tomopy](https://tomopy.readthedocs.io/en/latest/) package and various dependencies. Use the file_spec.txt file in this repo to start.
 ```
 #use file_spec.txt
-conda create --name tomopy_recon_env --file spec-file.txt
+conda create --name tomopy_recon_env --file spec_file.txt
 ```
 
 Start playing around in [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html) and open the jupyter notebooks to guide you as you begin reconstructions.
