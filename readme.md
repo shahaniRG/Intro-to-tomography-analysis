@@ -17,20 +17,22 @@ Some codes for the group. Please add notes and documents to improve this repo fo
 
 ### Dependencies
 
-* use enviroment_pc.yml with anaconda to set up a conda env
+* use file_spec.txt to set up conda env identical to what I use
+* optionally, can also use enviroment_pc.yml to set up a conda env (reportly errors?)
 
 ### Installing
 
 For sake of installation time, start by installing [miniconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html) 
 
-Open Anaconda Prompt and create a new environment named tomopy for the [tomopy](https://tomopy.readthedocs.io/en/latest/) package and various dependencies. Use the yml file in this repo to start.
+Open Anaconda Prompt and create a new environment named tomopy for the [tomopy](https://tomopy.readthedocs.io/en/latest/) package and various dependencies. Use the file_spec.txt file in this repo to start.
 ```
-conda env create --file environment_pc.yml
+#use file_spec.txt
+conda create --name tomopy_recon_env --file spec-file.txt
 ```
 
 Start playing around in [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html) and open the jupyter notebooks to guide you as you begin reconstructions.
 ```
-conda activate tomopy_analysis
+conda activate tomopy_recon_env
 jupyter lab
 ```
 
